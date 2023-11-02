@@ -1,0 +1,32 @@
+{
+    "info": {
+        "name": "sky130_ef_ip__xtal_osc_32k",
+        "description": "ultra-low-power, low speed crystal oscillator",
+        "repo": "github.com/efabless/EF_AMP3V3",
+        "owner": "Efabless Corp.",
+        "license": "APACHE 2.0",
+        "author": "Tim Edwards",
+        "email": "tim@efabless.com",
+        "version": "v1.0.0",
+        "date": "1-11-2023",
+        "category": "analog",
+        "tags": [
+            "crystal oscillator",
+            "low power",
+            "low speed"
+        ],
+        "bus": [
+            "n/a"
+        ],
+        "type": "hard",
+        "status": "verified",
+        "cell_count": "n/a",
+        "width": "56.9",
+        "height": "128.18",
+        "technology": "sky130",
+        "clock_freq_mhz": "n/a",
+        "supply_voltage": [
+            "1.8"
+        ]
+    }
+}
