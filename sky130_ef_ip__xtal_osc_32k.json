@@ -24,7 +24,7 @@
         "width": "56.9",
         "height": "128.18",
         "technology": "sky130",
-        "clock_freq_mhz": "n/a",
+        "clock_freq_mhz": "0.032768",
         "supply_voltage": [
             "1.8"
         ]
