@@ -2,7 +2,7 @@
     "info": {
         "name": "sky130_ef_ip__xtal_osc_32k",
         "description": "ultra-low-power, low speed crystal oscillator",
-        "repo": "github.com/efabless/EF_AMP3V3",
+        "repo": "github.com/efabless/sky130_ef_ip__xtal_osc_32k",
         "owner": "Efabless Corp.",
         "license": "APACHE 2.0",
         "author": "Tim Edwards",
